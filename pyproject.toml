@@ -19,7 +19,6 @@ stix = "^1.2.0"
 cybox = "^2.1.0"
 mixbox = "^1.0.3"
 maec = "^4.1.0"
-setuptools = "^65.1.1"
 stix2 = {git = "https://github.com/MISP/cti-python-stix2.git", rev = "main"}
 
 [tool.poetry.dev-dependencies]
